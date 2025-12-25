@@ -12,7 +12,7 @@ module.exports = {
   name: 'panel',
   description: 'Send the voice room control panel.',
   async execute(message, args, client) {
-    const bannerURL = 'https://media.discordapp.net/attachments/1299884084356579439/1401797449919762482/altf4.gif?ex=6891951c&is=6890439c&hm=fb5ee77ed84feb3a5503be1e78243f282fe314f0fc98a2865ce6c8432996cd31&=&width=2249&height=1265';
+    const bannerURL = 'https://cdn.discordapp.com/attachments/1294142291363102762/1453563685460246658/9ba8a3d2b7f19c8a020cd9dac544978a.png?ex=694de82c&is=694c96ac&hm=5abf08c2597adda38abe5d7f57b38aec603a3072af797524c06d67ea4f84a680&';
 
     const embed = new EmbedBuilder()
       .setTitle(`Welcome !!`)
